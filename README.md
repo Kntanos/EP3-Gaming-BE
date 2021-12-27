@@ -28,6 +28,5 @@ Bernard is embarking on his quest to become a junior software developer and has 
 
 Users have to register with a unique username and password, so the table of highscores can be maintained.
 
-The game requires fast reflexes.The aim is to attack the monster as many times as possible before the timer counts down to zero or Bernard loses all his HP points. The more hits Bernard lands the higher the score. However, occasionally a sign 'Don't Attack' appears between Bernard and the monster, during which time, the player must stop attacking or otherwise Bernards HP suffers heavy loses. The game relies on fast reflexes.
-
+The game requires fast reflexes.The aim is to attack the monster as many times as possible before the timer counts down to zero or Bernard loses all his HP points. The more hits Bernard lands the higher the score. However, occasionally a sign 'Don't Attack' appears between Bernard and the monster, during which time, the player must stop attacking or otherwise Bernards HP suffers heavy loses.
 <img src="LoB.gif" width="400px">
