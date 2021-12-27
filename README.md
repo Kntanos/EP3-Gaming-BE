@@ -1,3 +1,5 @@
+# 'Life of Bernard'
+
 ### Developed with by:
 - <b>[AJOsmaston](https://github.com/AJOsmaston)</b>
 - <b>[Bernardleanse](https://github.com/bernardleanse)</b>
