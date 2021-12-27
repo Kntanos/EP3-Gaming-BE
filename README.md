@@ -1,6 +1,6 @@
 # 'Life of Bernard'
 
-### Developed with by:
+### Team project by:
 - <b>[AJOsmaston](https://github.com/AJOsmaston)</b>
 - <b>[Bernardleanse](https://github.com/bernardleanse)</b>
 - <b>[Jtc27](https://github.com/jtc27)</b>
